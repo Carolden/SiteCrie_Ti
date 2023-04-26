@@ -1,0 +1,9 @@
+header {
+    background-color: black;
+    position: absolute;
+}
+
+header nav a {
+    color: white;
+    text-decoration: none;
+}

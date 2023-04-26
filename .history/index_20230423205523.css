@@ -1,0 +1,60 @@
+body {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color: #212121;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    top: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+}
+
+header nav a {
+    color: #B0B0B0;
+    text-decoration: none;
+    padding: 10px;
+
+}
+
+.logo {
+    width: 150px;
+    height: 60px;
+    padding-right: 40px;
+}
+
+.banner {
+    background-color: rgb(121, 224, 63);
+    color: rgb(185, 255, 137);
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 150px;
+    
+}
+
+button {
+    background-color: #593BCC;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 3px;
+}
+
+.banner h1 {
+    font-size: 55px;
+    margin-bottom: -30px;
+}
+
+.banner p {
+    padding-bottom: 50px;
+    padding-top: 30px;
+    margin-bottom: 0px;
+}
